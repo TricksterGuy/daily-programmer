@@ -7,7 +7,7 @@ int main(int argc, char** argv)
     if (argc < 2)
     {
         printf("Usage: bender binaryString\n");
-        printf("Now bite my shiny metal ass\n")
+        printf("Now bite my shiny metal ass\n");
         abort();
     }
 
